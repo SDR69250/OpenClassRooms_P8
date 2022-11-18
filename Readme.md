@@ -21,7 +21,7 @@ https://www.kaggle.com/moltean/fruits
 ## Livrables
 
 1. Développement du modèle de classification
--  DeRosa_Sebastien_1_notebook_102022.ipynb : notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension)
-2. Images du jeu de données initial ainsi que la sortie de la réduction de dimension (matrice CSV) disponible sur AWS S3
-3. Documentation du projet
--  DeRosa_Sebastien_2_presentation_112022.pdf : support de présentation
+-  P8_01_notebook.ipynb : notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension, ici on utilise le modèle VGG16 sans la dernière couche)
+2. P8_02_Images_Features : images du jeu de données initial (.jpg) ainsi que la sortie de la réduction de dimension (matrice .csv) toutes stockées sur AWS S3
+3. Documentation projet :
+-  P8_03_presentation.pdf : support de présentation
